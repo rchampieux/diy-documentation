@@ -4,7 +4,7 @@
 
 1. *(5 min)* Meet your Neighbor
 1. *(20 min x4)* 4 Lessons: lecture + hands-on + review
-    - Motivation for documentation & software for today
+    - Motivation for documentation & workshop software setup
     - The Magic of Markdown & the Markdown Cheatsheet
     - Read the Docs Setup & Publish
     - Read the Docs Modification & Troubleshooting
