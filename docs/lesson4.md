@@ -9,6 +9,10 @@ Back in GitHub Desktop:
 1. Write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
 1. Bonus: Use **bold**, *italics*, bullets, and numbered lists.
 
+## Add a readthedocs.org collaborator
+
+FILL IN THE BLANK
+
 ## Demo: Troubleshooting
 
 Usually confined to the `mkdocs.yml` YAML file.
