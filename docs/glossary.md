@@ -2,48 +2,86 @@
 
 Organized alphabetically.
 
-## Automating/Automation
+## Automation
 
-## Build/Building
+Automatically handling setup and/or transfer processes from repository to published website.
+
+## Build
+
+The process of interpreting your Markdown files and YAML file into a cohesive documentation website with tables of contents and internal links and anchors among website pages.
 
 ## Clone
 
-## Documentation/Documenting/Document
+The Git process of copying a repository's contents and its history into a local (on your own computer) folder for usage.
+
+## Documentation
+
+A set of descriptions, instructions, and/or paragraphs used to describe a project's usage, installation, or other utility about the project.
 
 ## Download
 
+The process of pulling files or data from a remote source.
+
 ## Fork
+
+The Git concept of copying a repository from someone else's ownership to your ownership, all the while maintaining the history and association/reference back to the original repository.
 
 ## Git
 
+A distributed version control (a.k.a. source control) utility for keeping state and history of files.
+
 ## GitHub
+
+A popular Git online service.
 
 ## GitHub Desktop
 
+GitHub's free repository interaction utility.
+
 ## Hosting
+
+Holding a public website online.
 
 ## Maintainer
 
+A readthedocs.org concept of a collaborator.  Someone else who can make edits to your readthedocs.org Project.
+
 ## Markdown
+
+A common markup language for doing basic documentation with an emphasis on content first, formatting later.
 
 ## Mkdocs
 
+A platform for rendering documentation as HTML websites from Markdown files.
+
 ## Project Slug
+
+The short name for your Read the Docs website address.  Your documentation website's address gets hosted as `project-slug.readthedocs.io` where `project-slug` is instead your chosen short project name.
 
 ## Publish
 
+To put a website out publicly.
+
 ## readthedocs.org
 
-## Repository/Repo
+A free website for hosting your documentation in a popular format.
 
-## Source control
+## Repository
 
-## Stage/Staging file edits
+A repository (a.k.a. repo) is a collection of version controlled files with an associated history.
 
-## Versioning/Version control
+## Stage
+
+The act in Git of preparing files to commit into repository history.
+
+## Version(ing) control
+
+Version control (a.k.a. source control) 
 
 ## Visual Studio Code
 
+A free Microsoft software for doing code, documentation, and other text-based development across many platforms.
+
 ## YAML
 
-**YAML** = **Y**AML **A**in't **M**arkup **L**anguage
+**YAML** stands for **Y**AML **A**in't **M**arkup **L**anguage
