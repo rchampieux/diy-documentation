@@ -62,6 +62,10 @@ The short name for your Read the Docs website address.  Your documentation websi
 
 To put a website out publicly.
 
+## Push
+
+A Git concept meaning to send commit histories from your local computer to your remote service (GitHub for the sake of this workshop).
+
 ## readthedocs.org
 
 A free website for hosting your documentation in a popular format.
