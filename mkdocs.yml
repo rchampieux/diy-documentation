@@ -5,7 +5,8 @@ plugins:
 docs_dir: docs
 pages:
   - Lesson Plan: index.md
-  - Lesson 1 Motivation for Documentation: lesson1.md
-  - Lesson 2 The Magic of Markdown: lesson2.md
-  - Lesson 3 Read the Docs (part one): lesson3.md
-  - Lesson 4 Read the Docs (part two): lesson4.md
+  - 1 - Motivation for Documentation: lesson1.md
+  - 2 - The Magic of Markdown: lesson2.md
+  - 3 - Read the Docs Setup & Publish: lesson3.md
+  - 4 - Read the Docs Modifying & Troubleshooting: lesson4.md
+  - Glossary: glossary.md

@@ -1,3 +1,9 @@
-# Lesson 2: The Magic of Markdown
+# The Magic of Markdown
 
-*(placeholder for Robin's lesson)*
+*(placeholder for Robin's content)*
+
+## Markdown
+
+## Hands-on: HackMD
+
+## Discussion

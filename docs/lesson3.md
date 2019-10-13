@@ -1,4 +1,4 @@
-# Lesson 3: Read the Docs (part one)
+# Read the Docs Setup & Publish
 
 Read the Docs simplifies documentation by automating building, versioning, and hosting of your docs for you.
 
@@ -34,8 +34,8 @@ pages:
 ### Read the Docs Setup
 
 1. Log into [readthdocs.org](https://readthedocs.org/accounts/login/) with your GitHub account.
-1. Import a project.
-1. Import a repository with the **+ (plus)** sign.
+1. Click the **Import a project** button which will bring you to the Import a Repository menu.
+1. In the Import a repository menu select your repo with the **+ (plus)** sign.
 1. Adjust the **Project Slug** to something short and memorable for the documentation webpage name.
 1. Click **Next** on Project Details.
 1. Go to the **Admin** tab in the top right and then **Advanced Settings** on the left.
@@ -46,3 +46,8 @@ pages:
 
 1. To see publishing progress go to the **Build** tab and find the latest build.
 1. When it says **Build completed** you can click the **View Docs** button to view those docs.
+
+## Discussion
+
+- What do you notice about the table of contents?
+- What does this documentation feel like it is missing?

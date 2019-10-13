@@ -1,4 +1,4 @@
-# Lesson 1: Motivation for documentation
+# Motivation for documentation
 
 > **For others:** Because you want to *transfer* knowledge.
 >
@@ -11,6 +11,8 @@ From [Write the Docs' "A beginner’s guide to writing documentation"](http://ww
 1. You want people to help out
 1. You want your (project) to be better
 
+We will be using the readthedocs.org platform as a way to easily publish a documentation website.  They focus pretty heavily on programming and code documentation, but their service can be used for hosting any non-commercial documentation you like for free.
+
 ## Hands-on: Workshop software setup
 
 1. Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
@@ -18,6 +20,6 @@ From [Write the Docs' "A beginner’s guide to writing documentation"](http://ww
 1. Sign up for a [GitHub](https://github.com/join) account
 1. Sign up for a [Read the Docs](https://readthedocs.org/accounts/signup) account using your GitHub account
 
-## Discussion: Why do you write documentation?
+## Discussion: What motivates your documentation?
 
-What reasons do you have for documenting that we haven't talked about?
+What reasons do you have for making documentation that we haven't talked about?

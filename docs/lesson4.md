@@ -1,24 +1,40 @@
-# Lesson 4: Read the Docs (part two)
+# Read the Docs Modification & Troubleshooting
 
 ## Hands-on: Modification
 
-Back in GitHub Desktop:
+You'll need a copy of your docs tied to your GitHub repo if you don't already have one.  Open GitHub Desktop and:
 
 1. Go to **File** > **Clone Repository**
 1. Clone *yourusername/my-first-rtd*
 1. Write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
-1. Bonus: Use **bold**, *italics*, bullets, and numbered lists.
+1. Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remmber the Markdown cheatsheet.
 
-## Add a readthedocs.org collaborator
+## Hands-on: Add a readthedocs.org maintainer
 
-FILL IN THE BLANK
+1. Log into [readthdocs.org](https://readthedocs.org/accounts/login/) with your GitHub account.
+1. Click your name in the top right corner to go to **My Projects**.
+1. Click your Read the Docs **Project**.
+1. Click the **Admin** tab.
+1. On the left menu click **Maintainers**.
+1. Here you can add maintainers to your Read the Docs Project by typing in their Read the Docs **User** account name.
 
 ## Demo: Troubleshooting
 
-Usually confined to the `mkdocs.yml` YAML file.
+Documentation site-breaking problems are usually confined to the `mkdocs.yml` YAML file.  To publish new content:
 
+1. Make and save edits.
+1. **Stage** your edits.
 1. **Commit** your edits.
 1. **Push** your commit.
-1. Go to your **readthedocs.org** project inside the **Builds** tab.
+1. Go to your **readthedocs.org** Project inside the **Builds** tab.
 1. Click on the newest build.
 1. Watch your docs build in real-time.
+
+## Discussion: What are some site-breaking things you can guess?
+
+Problems I have run into:
+
+- Incorrectly named `mkdocs.yaml`
+- Incorrectly spelled keys in `mkdocs.yml`
+- Special characters in `pages:` names
+- Incorrectly named or incorrectly placed `.md` files in `mkdocs.yml`

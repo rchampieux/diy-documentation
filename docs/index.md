@@ -1,5 +1,9 @@
 # DIY Documentation Websites
 
+This workshop documentation itself is a readthedocs.org site.  It has Headers on the left side, a Table of contents on the right side, and a Search bar in the top right.
+
+There is a glossary at the end for some common terms used throughout this workshop content.
+
 ## Workshop Agenda
 
 1. *(5 min)* Meet your Neighbor
