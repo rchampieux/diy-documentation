@@ -2,12 +2,14 @@
 
 ## Hands-on: Modification
 
-You'll need a copy of your docs tied to your GitHub repo if you don't already have one.  Open GitHub Desktop and:
+You'll need a copy of your docs tied to your GitHub repo if you don't already have one.
 
-1. Go to **File** > **Clone Repository**
-1. Clone *yourusername/my-first-rtd*
-1. Write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
-1. Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remmber the Markdown cheatsheet.
+1. Sign into [GitHub](https://github.com/login).
+1. Go to your Forked version of [our sample repository](https://github.com/BioData-Club/my-first-rtd).
+1. Click **Clone or Download** and then **Open in Desktop**
+1. Within GitHub Desktop there should be an Open in Visual Studio Code button.  Click that button.
+1. Within Visual Studio Code, write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
+    - Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remmber the Markdown cheatsheet.
 
 ## Hands-on: Add a readthedocs.org maintainer
 
@@ -34,7 +36,7 @@ Documentation site-breaking problems are usually confined to the `mkdocs.yml` YA
 
 Problems I have run into:
 
-- Incorrectly named `mkdocs.yaml`
-- Incorrectly spelled keys in `mkdocs.yml`
-- Special characters in `pages:` names
-- Incorrectly named or incorrectly placed `.md` files in `mkdocs.yml`
+- Incorrectly named `mkdocs.yaml` instead of the correct name, `mkdocs.yml`.
+- Incorrectly spelled keys in `mkdocs.yml`.
+- Special characters in `pages:` names.
+- Incorrectly named or incorrectly placed `.md` files in `mkdocs.yml`.

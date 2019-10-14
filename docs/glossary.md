@@ -80,7 +80,7 @@ The act in Git of preparing files to commit into repository history.
 
 ## Version(ing) control
 
-Version control (a.k.a. source control) 
+Version control (a.k.a. source control) is a method for saving the history of all edits to a file-filled repository.  We are using Git for the purposes of this workshop.
 
 ## Visual Studio Code
 
