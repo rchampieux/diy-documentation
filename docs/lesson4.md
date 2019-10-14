@@ -5,11 +5,11 @@
 You'll need a copy of your docs tied to your GitHub repo if you don't already have one.
 
 1. Sign into [GitHub](https://github.com/login).
-1. Go to your Forked version of [our sample repository](https://github.com/BioData-Club/my-first-rtd).
+1. Go to your Forked version of [our sample repository](https://github.com/BioData-Club/my-first-rtd).  Forks of an original repo can be found by clicking the number next to **Fork** in the top right of the repo.
 1. Click **Clone or Download** and then **Open in Desktop**
-1. Within GitHub Desktop there should be an Open in Visual Studio Code button.  Click that button.
+1. Within GitHub Desktop there should be an **Open in Visual Studio Code** button.  Click that button.
 1. Within Visual Studio Code, write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
-    - Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remmber the Markdown cheatsheet.
+    - Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remember the Markdown cheatsheet.
 
 ## Hands-on: Add a readthedocs.org maintainer
 
@@ -31,6 +31,8 @@ Documentation site-breaking problems are usually confined to the `mkdocs.yml` YA
 1. Go to your **readthedocs.org** Project inside the **Builds** tab.
 1. Click on the newest build.
 1. Watch your docs build in real-time.
+
+**Note**: If your edited docs look like they haven't changed even though you know you've changed them and the build has completed, try a different browser or an "Incognito Browser" mode to see newer edits.
 
 ## Discussion: What are some site-breaking things you can guess?
 
