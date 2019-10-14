@@ -11,7 +11,7 @@ From [Write the Docs' "A beginner’s guide to writing documentation"](http://ww
 1. You want people to help out
 1. You want your (project) to be better
 
-We will be using the readthedocs.org platform as a way to easily publish a documentation website.  They focus on programming and code documentation, but their service can be used for hosting any non-commercial documentation you like for free.
+We will be using the readthedocs.org platform as a way to easily publish a documentation website.  It focuses on programming and code documentation, but the service can be used for hosting any kind of non-commercial documentation you like for free.
 
 ## Hands-on: Workshop software setup
 
