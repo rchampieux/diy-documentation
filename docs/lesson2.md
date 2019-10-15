@@ -15,12 +15,15 @@
 - A **very brief** syntax primer:
   - To create a heading, add number signs (e.g. # My Header) in front of a word or phrase.  For example, use 1 (#) for level 1 headings, Use (##) for level two headings and so on.
   - To bold text use two asterisks before and after a word or phrase.  
+
   > For example `**bold**` will render as **bold**.
 
   - For italic use one asterisk before and after a word or phrase.
+
   > `*italics*` will render as *italics*
 
   - To create a link, enclose the link text in brackets (e.g., [Follow me on Twitter]) and then follow it immediately with the URL in parentheses (e.g., (https://twitter.com/rchampieux)).  
+  
   > So, `[Follow me on Twitter](https://twitter.com/rchampieux)` will render as [Follow me on Twitter](https://twitter.com/rchampieux).
 
 ## Hands-on: HackMD
