@@ -1,6 +1,6 @@
 # DIY Documentation Websites
 
-This workshop documentation itself is a readthedocs.org site.  It has **Subject headers** on the left side, a **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
+This workshop documentation itself is a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
 
 There is a glossary at the end for some common terms used throughout this workshop content.
 
@@ -14,7 +14,7 @@ There is a glossary at the end for some common terms used throughout this worksh
     - Read the Docs Modification & Troubleshooting
 1. *(5 min)* Open Questions
 
-## Meet your neighbor
+## Meet Your Neighbor
 
 Take 5 minutes to:
 
