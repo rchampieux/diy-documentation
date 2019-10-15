@@ -9,22 +9,21 @@
 - Many use cases:  websites, [documents](https://ulysses.app/), [slides](https://github.com/gnab/remark), [books](https://leanpub.com), and more!
 
 ## The Basics
-- You can create Markdown files using a text editor.  The file should have an .md or .markdown extension.
-- You can also use a dedicated Markdown application, like [HackMD](https://hackmd.io/).
 
-- A **very brief** syntax primer:
-  - To create a heading, add number signs (e.g. # My Header) in front of a word or phrase.  For example, use 1 (#) for level 1 headings, Use (##) for level two headings and so on.
-  - To bold text use two asterisks before and after a word or phrase.  
+You can create Markdown files using a text editor.  The file should have an .md or .markdown extension.
 
-  > For example `**bold**` will render as **bold**.
+You can also use a dedicated Markdown application, like [HackMD](https://hackmd.io/).
 
-  - For italic use one asterisk before and after a word or phrase.
+To create a heading, add number signs (e.g. # My Header) in front of a word or phrase.  For example, use 1 (#) for level 1 headings, Use (##) for level two headings and so on.
 
-  > `*italics*` will render as *italics*
+To bold text use two asterisks before and after a word or phrase.  
+> For example `**bold**` will render as **bold**.
 
-  - To create a link, enclose the link text in brackets (e.g., [Follow me on Twitter]) and then follow it immediately with the URL in parentheses (e.g., (https://twitter.com/rchampieux)).  
-  
-  > So, `[Follow me on Twitter](https://twitter.com/rchampieux)` will render as [Follow me on Twitter](https://twitter.com/rchampieux).
+For italic use one asterisk before and after a word or phrase.
+> `*italics*` will render as *italics*
+
+To create a link, enclose the link text in brackets (e.g., [Follow me on Twitter]) and then follow it immediately with the URL in parentheses (e.g., (https://twitter.com/rchampieux)).  
+> `[Follow me on Twitter](https://twitter.com/rchampieux)` will render as [Follow me on Twitter](https://twitter.com/rchampieux).
 
 ## Hands-on: HackMD
 1. Go to [HackMD](https://hackmd.io/)
