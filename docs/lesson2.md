@@ -14,15 +14,17 @@
 - A **very brief** syntax primer:
   - To create a heading, add number signs (e.g. # My Header) in front of a word or phrase.  Use 1 (#) for level 1 headings, Use (##) for level two headings and so on.
   - To bold text use two asterisks before and after a word or phrase.  For example `**bold**` will render as **bold**.
-  - For italic use one asterisk before and after a word or phrase.  `*italics*` will render as *italic*
+  - For italic use one asterisk before and after a word or phrase.  `*italics*` will render as *italics*
   - To create a link, enclose the link text in brackets (e.g., [Follow me on Twitter]) and then follow it immediately with the URL in parentheses (e.g., (https://twitter.com/rchampieux)).  So, `[Follow me on Twitter](https://twitter.com/rchampieux)` will render as [Follow me on Twitter](https://twitter.com/rchampieux).
 
 ## Hands-on: HackMD
 1. Go to [HackMD](https://hackmd.io/)
 [https://hackmd.io/]
+> With HackMD you can write in Markdown and view the formatted output simultaneously
 2. Click "Try it out"
 3. Create a document about what you want to document by adding a level 1 heading.
 4. Start a bulleted list of the things your future self should know.
-5. Add this ![picture](https://gph.is/2RXHc4F)
+> Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes) to look-up common Markdown elements
+5. Add this image: https://media.giphy.com/media/toYHMPMkP6O5OQZsLW/giphy.gif
 
 ## Discussion
