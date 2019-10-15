@@ -22,7 +22,7 @@ For italic use one asterisk before and after a word or phrase.
 > `*italics*` will render as *italics*
 
 To create a link, enclose the link text in brackets `[this guide]` and then follow it immediately with the URL in parentheses `(https://www.markdownguide.org/)`.  
-> `Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson` will render as Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
+> Content from `[this guide](https://www.markdownguide.org/)` was adapted for this lesson will render as Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
 
 ## Hands-on: HackMD
 1. Go to [HackMD](https://hackmd.io/)
