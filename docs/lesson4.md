@@ -6,10 +6,10 @@ You'll need a copy of your docs tied to your GitHub repo if you don't already ha
 
 1. Sign into [GitHub](https://github.com/login).
 1. Go to your Forked version of [our sample repository](https://github.com/BioData-Club/my-first-rtd).  Forks of an original repo can be found by clicking the number next to **Fork** in the top right of the repo.
-1. Click **Clone or Download** and then **Open in Desktop**
+1. Click **Clone or Download** and then **Open in Desktop**.
 1. Within GitHub Desktop there should be an **Open in Visual Studio Code** button.  Click that button.
-1. Within Visual Studio Code, write a sentence in the `index.md` file about your perfect Sunday or any other fun topic.
-    - Bonus: Use **bold**, *italics*, bullets, and numbered lists.  Remember the Markdown cheatsheet.
+1. Within Visual Studio Code, update the `contributors.md` file with your neighbor's name.
+    - Bonus: Use `**bold**`, `*italics*`, `- bullets`, and `1. numbered lists`.  Remember the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Hands-on: Add a readthedocs.org maintainer
 

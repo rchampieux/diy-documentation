@@ -26,13 +26,14 @@ pages:
 1. Sign into [GitHub](https://github.com/login).
 1. Fork [our sample repository](https://github.com/BioData-Club/my-first-rtd), the button is in the top right corner of the repository.
 
+**Note ([from the glossary](https://diy-documentation.readthedocs.io/en/latest/glossary/#fork))**: A fork is a Git concept of copying a repository from someone else's ownership to your ownership, all the while maintaining the history
 
 ### Read the Docs Setup
 
 1. Log into [readthdocs.org](https://readthedocs.org/accounts/login/) with your GitHub account.
 1. Click the **Import a project** button which will bring you to the Import a Repository menu.
 1. In the Import a repository menu select your forked repo with the **+ (plus)** sign.
-1. Adjust the **Project Slug** to something short and memorable for the documentation webpage name.
+1. Adjust the **Name** to something short and memorable for the documentation webpage name.
 1. Click **Next** on Project Details.
 1. Go to the **Admin** tab in the top right and then **Advanced Settings** on the left.
 1. Change **Documentation type:** to **Mkdocs (Markdown)**.
@@ -43,7 +44,6 @@ pages:
 1. To see publishing progress go to the **Build** tab and find the latest build.
 1. When it says **Build completed** you can click the **View Docs** button to view those docs.
 
-## Discussion
+## Discussion: Your new site
 
-- What do you notice about the table of contents?
-- What does this documentation feel like it is missing?
+Take a look at the front page of your newly published readthedocs.org site.  What advice might you suggest that you don't see there?

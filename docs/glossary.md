@@ -54,10 +54,6 @@ A common markup language for doing basic documentation with an emphasis on conte
 
 A platform for rendering documentation as HTML websites from Markdown files.
 
-## Project Slug
-
-The short name for your Read the Docs website address.  Your documentation website's address gets hosted as `project-slug.readthedocs.io` where `project-slug` is instead your chosen short project name.
-
 ## Publish
 
 To put a website out publicly.

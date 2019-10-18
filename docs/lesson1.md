@@ -1,4 +1,4 @@
-# Motivation for documentation
+# Motivation & Best Practices
 
 > **For others:** Because you want to *transfer* knowledge.
 >
