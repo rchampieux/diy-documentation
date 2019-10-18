@@ -49,6 +49,12 @@ Content from [this guide](https://www.markdownguide.org/) was adapted for this l
 ```
 Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
 
+Use one back tick around code to create in-line code blocks and three back ticks to create multi-line fenced off blocks.
+```
+This line has some `code` in it will render as:
+```
+This line has some `code` in it.
+
 ## Hands-on: HackMD
 1. Go to [HackMD](https://hackmd.io/)
 [https://hackmd.io/]
@@ -60,3 +66,4 @@ Content from [this guide](https://www.markdownguide.org/) was adapted for this l
 5. Add a [gif](https://giphy.com/) to your document.
 
 ## Discussion
+Now that you've had some time to experiment with Markdown what were you able to do, or what did you struggle with?
