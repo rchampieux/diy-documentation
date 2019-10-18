@@ -16,18 +16,21 @@ You can create Markdown files using a text editor.  The file should have an .md 
 ### Brief Syntax Primer
 To create headings, add hash signs (e.g. # The Magic of Markdown) in front of a word or phrase.  Use 1 hash sign `#` for level 1 headings, use 2 hash signs `##` for level two headings, and so on.
 ```
-The header for this section is written like this in Markdown: ### Brief Syntax Primer
+The header for this section is written like this in Markdown:
+### Brief Syntax Primer
 ```
 
 To bold text use two asterisks before and after a word or phrase.  
 ```
-**bold** will render as:
+**bold**
+will render as:
 ```
 **bold**.
 
 For italic use one asterisk before and after a word or phrase.
 ```
-*italics* will render as:
+*italics*
+will render as:
 ```
 *italics*
 
@@ -45,13 +48,15 @@ will render as:
 
 To create a link, enclose the link text in brackets `[this guide]` and then follow it immediately with the URL in parentheses `(https://www.markdownguide.org/)`.  
 ```
-Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson will render as:
+Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson
+will render as:
 ```
 Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
 
 Use one back tick around code to create in-line code blocks and three back ticks to create multi-line fenced off blocks.
 ```
-This line has some `code` in it will render as:
+This line has some `code` in it
+will render as:
 ```
 This line has some `code` in it.
 
