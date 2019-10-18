@@ -1,5 +1,7 @@
 # DIY Documentation Websites
 
+![Do It Yourself](images/diy.jpg)
+
 This workshop documentation itself is a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
 
 There is a glossary at the end for some common terms used throughout this workshop content.
