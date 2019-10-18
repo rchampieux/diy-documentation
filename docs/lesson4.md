@@ -44,3 +44,28 @@ Problems I have run into:
 - Incorrectly spelled keys in `mkdocs.yml`.
 - Special characters in `pages:` names.
 - Incorrectly named or incorrectly placed `.md` files in `mkdocs.yml`.
+
+```
+        \          SORRY            /
+         \                         /
+          \    This page does     /
+           ]   not exist yet.    [    ,'|
+           ]                     [   /  |
+           ]___               ___[ ,'   |
+           ]  ]\             /[  [ |:   |
+           ]  ] \           / [  [ |:   |
+           ]  ]  ]         [  [  [ |:   |
+           ]  ]  ]__     __[  [  [ |:   |
+           ]  ]  ] ]\ _ /[ [  [  [ |:   |
+           ]  ]  ] ] (#) [ [  [  [ :===='
+           ]  ]  ]_].nHn.[_[  [  [
+           ]  ]  ]  HHHHH. [  [  [
+           ]  ] /   `HH("N  \ [  [
+           ]__]/     HHH  "  \[__[
+           ]         NNN         [
+           ]         N/"         [
+           ]         N H         [
+          /          N            \
+         /           q,            \
+        /                           \
+```
