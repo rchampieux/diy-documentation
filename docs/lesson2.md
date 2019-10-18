@@ -23,6 +23,20 @@ To bold text use two asterisks before and after a word or phrase.
 For italic use one asterisk before and after a word or phrase.
 > `*italics*` will render as *italics*
 
+Code blocks are created with one back tick on either side of in-line code or with three back ticks for multi-line blocks of code.
+> ``this is code`` will render as `this is code`
+
+Unordered lists are can be created with asterisks `*`, pluses `+`, or minuses `-`.
+> ```* October
+* November
+* December```
+
+will render as:
+
+* October
+* November
+* December
+
 To create a link, enclose the link text in brackets `[this guide]` and then follow it immediately with the URL in parentheses `(https://www.markdownguide.org/)`.  
 > Content from `[this guide](https://www.markdownguide.org/)` was adapted for this lesson will render as Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
 
