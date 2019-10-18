@@ -1,5 +1,7 @@
 # Read the Docs Setup & Publish
 
+![Read the Docs](images/rtd.png)
+
 Read the Docs simplifies documentation by automating building, versioning, and hosting of your docs for you.
 
 ## Getting started

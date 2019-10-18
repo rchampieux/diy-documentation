@@ -1,5 +1,7 @@
 # The Magic of Markdown
 
+![Markdown Logo](images/markdown.png)
+
 > Markdown is a light-weight markup language that uses a simple, unobtrusive syntax to add formatting, such as headings and italics, to plain text documents.  It can be easily converted to many output formats, most notably HTML.  
 
 ## Why is Markdown Magic?

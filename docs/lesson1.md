@@ -1,5 +1,7 @@
 # Motivation & Best Practices
 
+![xkcd 1343: Manuals](images/xkcd-1343-manuals.png)
+
 > **For others:** Because you want to *transfer* knowledge.
 >
 > **For yourself:** Because *future you* would like to know what *past you* was thinking.

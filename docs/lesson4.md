@@ -1,5 +1,7 @@
 # Read the Docs Modification & Troubleshooting
 
+![Workbench](images/workbench.jpg)
+
 ## Hands-on: Modification
 
 You'll need a copy of your docs tied to your GitHub repo if you don't already have one.
