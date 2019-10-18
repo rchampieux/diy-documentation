@@ -24,19 +24,22 @@ For italic use one asterisk before and after a word or phrase.
 > `*italics*` will render as *italics*
 
 Unordered lists are can be created with asterisks `*`, pluses `+`, or minuses `-`.
-```* October
+```
+* October
 * November
 * December
+
+will render as:
 ```
-
-will render as
-
 * October
 * November
 * December
 
 To create a link, enclose the link text in brackets `[this guide]` and then follow it immediately with the URL in parentheses `(https://www.markdownguide.org/)`.  
-> Content from `[this guide](https://www.markdownguide.org/)` was adapted for this lesson will render as Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
+```
+Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson will render as:
+```
+Content from [this guide](https://www.markdownguide.org/) was adapted for this lesson.
 
 ## Hands-on: HackMD
 1. Go to [HackMD](https://hackmd.io/)
@@ -44,7 +47,7 @@ To create a link, enclose the link text in brackets `[this guide]` and then foll
 > With HackMD you can write in Markdown and view the formatted output simultaneously
 2. Click "Try it out"
 3. Title your document by adding a level 1 heading.
-4. Start a bulleted list of the things your future self should know.
+4. Start a ordered list of the things your future self should know.
 > Use this [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes) to look-up common Markdown elements
 5. Add a [gif](https://giphy.com/) to your document.
 
