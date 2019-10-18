@@ -15,13 +15,19 @@ You can create Markdown files using a text editor.  The file should have an .md 
 
 ### Brief Syntax Primer
 To create headings, add hash signs (e.g. # The Magic of Markdown) in front of a word or phrase.  Use 1 hash sign `#` for level 1 headings, use 2 hash signs `##` for level two headings, and so on.
-> The header for this section is written like this in Markdown: `### Brief Syntax Primer`
+```
+The header for this section is written like this in Markdown: ### Brief Syntax Primer
+```
 
 To bold text use two asterisks before and after a word or phrase.  
-> `**bold**` will render as **bold**.
+```**bold** will render as:
+```
+**bold**.
 
 For italic use one asterisk before and after a word or phrase.
-> `*italics*` will render as *italics*
+```*italics* will render as:
+```
+*italics*
 
 Unordered lists are can be created with asterisks `*`, pluses `+`, or minuses `-`.
 ```
