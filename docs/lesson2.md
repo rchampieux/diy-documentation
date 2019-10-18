@@ -20,12 +20,14 @@ The header for this section is written like this in Markdown: ### Brief Syntax P
 ```
 
 To bold text use two asterisks before and after a word or phrase.  
-```**bold** will render as:
+```
+**bold** will render as:
 ```
 **bold**.
 
 For italic use one asterisk before and after a word or phrase.
-```*italics* will render as:
+```
+*italics* will render as:
 ```
 *italics*
 
