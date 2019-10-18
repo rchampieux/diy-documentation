@@ -24,14 +24,15 @@ For italic use one asterisk before and after a word or phrase.
 > `*italics*` will render as *italics*
 
 Code blocks are created with one back tick on either side of in-line code or with three back ticks for multi-line blocks of code.
-> ``this is code`` will render as `this is code`
+```this is a `block of `
+```
 
 Unordered lists are can be created with asterisks `*`, pluses `+`, or minuses `-`.
 > ```* October
 * November
 * December```
 
-will render as:
+will render as
 
 * October
 * November
