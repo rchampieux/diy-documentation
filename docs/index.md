@@ -1,6 +1,6 @@
-# DIY Documentation Websites
+# Helping You Naviate the Research Metrics Landscape
 
-![Do It Yourself](images/diy.jpg)
+![Do It Yourself](images/mt-log.png)
 
 This workshop documentation itself is a readthedocs.org site.  It has **Pages** on the left side, page level **Table of contents** on the right side, a **Search bar** in the top right, and **Previous/Next** navigation along the bottom.
 
