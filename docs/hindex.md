@@ -1,4 +1,4 @@
-[h-index icon](images/h-index-small.png)
+![h-index icon](images/h-index-small.png)
 # H-Index!
 ## What It It
 The h-index is an author-level metric that combines information from the author’s publications and citations. The h-index is the maximum number of an author’s publications that are each cited at least h times. It was proposed in 2005 by Jorge Hirsch(1).
