@@ -6,7 +6,7 @@ docs_dir: docs
 pages:
   - Home: index.md
   - Browse Metrics: lesson1.md
-    - Test2: lesson3.md
+    -Test2: lesson3.md
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
