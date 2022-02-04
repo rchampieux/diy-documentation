@@ -1,12 +1,11 @@
-site_name: DIY Documentation
+site_name: Metrics Toolkit
 theme: material
 plugins:
   - search
 docs_dir: docs
 pages:
-  - Lesson Plan: index.md
-  - 1 - Motivation & Best Practices: lesson1.md
-  - 2 - The Magic of Markdown: lesson2.md
-  - 3 - Read the Docs Setup & Publish: lesson3.md
-  - 4 - Read the Docs Modifying & Troubleshooting: lesson4.md
+  - Home: index.md
+  - Browse Metrics: lesson1.md
+  - Resources: lesson2.md
+  - About: lesson3.md
   - Glossary: glossary.md
