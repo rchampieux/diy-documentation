@@ -5,17 +5,8 @@ The Metrics Toolkit provides evidence-based information about research metrics a
 
 ## Using The Metrics Toolkit
 
-1. *(5 min)* Meet your Neighbor
-1. *(20 min x4)* 4 Lessons: lecture + hands-on + review
-    - Motivation for documentation & workshop software setup
-    - The Magic of Markdown & the Markdown Cheatsheet
-    - Read the Docs Setup & Publish
-    - Read the Docs Modification & Troubleshooting
-1. *(5 min)* Open Questions
+Something here about using the Toolkit and navigating the site.
 
 ## The Metrics Toolkit Schema
 
-Take 5 minutes to:
-
-1. Introduce yourself and what brought you here today
-1. Talk about either the **best** or **worst** online documentation you know of and why you feel that way about it
+All of the research metrics profiled in the Metrics Toolkit are described via a standard schema. Blah, Blah, Blah, show table
