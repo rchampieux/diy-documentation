@@ -6,8 +6,6 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Browse Metrics: lesson1.md
-    - Metric1: lesson1.md
-    - Metric2: lesson2.md
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
