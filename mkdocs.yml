@@ -5,7 +5,9 @@ plugins:
 docs_dir: docs
 nav:
   - Home: index.md
-  - Browse Metrics: lesson1.md
+  - Browse Metrics:
+    - Altmetric Score: lesson1.md
+    - H-Index: lesson4.md
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
