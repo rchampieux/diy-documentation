@@ -1,4 +1,4 @@
-# Helping You Naviate the Research Metrics Landscape
+# Helping You Navigate the Research Metrics Landscape
 
 ![Do It Yourself](images/mt-log.png)
 
