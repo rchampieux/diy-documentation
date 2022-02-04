@@ -6,8 +6,7 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Browse Metrics:
-    - Altmetric Score: lesson1.md
-    - H-Index: lesson4.md
+    - H-Indes: hindex.md
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
