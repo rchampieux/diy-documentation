@@ -8,13 +8,13 @@ nav:
   - Browse Metrics:
     - H-Index: hindex.md
   - Metrics by Output Type:
-    - Articles:
-    - Data:
-    - Code:
-    - Books and Book chapters:
+    - Articles: lesson2.md
+    - Data: lesson2.md
+    - Code: lesson2.md
+    - Books and Book chapters: lesson2.md
   - Metrics by Impact Type:
-    - Type 1:
-    - Type 2:
+    - Type 1: lesson2.md
+    - Type 2: lesson2.md
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
