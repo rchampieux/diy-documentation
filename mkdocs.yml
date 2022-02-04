@@ -7,6 +7,14 @@ nav:
   - Home: index.md
   - Browse Metrics:
     - H-Index: hindex.md
+  - Metrics by Output Type:
+    - Articles:
+    - Data:
+    - Code:
+    - Books and Book chapters:
+  - Metrics by Impact Type:
+    - Type 1:
+    - Type 2:
   - Resources: lesson2.md
   - About: lesson3.md
   - Glossary: glossary.md
