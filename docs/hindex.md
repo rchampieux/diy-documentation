@@ -5,6 +5,7 @@ The h-index is an author-level metric that combines information from the authorâ
 
 ## How It Works
 ![h-index calculation](images/h-index-graph-wikipedia.png)
+
 An author with an h-index of 5 has five publications that have been cited at least five times each (see figure). The formula for calculating the h-index is openly available. See https://en.wikipedia.org/wiki/H-index.
 
 You can can retrieve the h-index directly from [Google Scholar](http://scholar.google.com/), [Scopus](https://www.elsevier.com/solutions/scopus), or [Web of Science](https://webofknowledge.com/), or you can calculate it manually with citation data retrieved from Google Scholar, Scopus, Web of Science, Dimensions or any other citation index that includes author- and article-level citation information. To manually calculate the h-index, just rank the papers in decreasing citation count. The h-index is the lowest rank that is greater than or equal to the citation count.
