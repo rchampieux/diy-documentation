@@ -6,9 +6,15 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Browse Metrics:
-    - H-Index: hindex.md
+    - Altmetric Attention Score: altmetricattention.md
     - Eigenfactor Score & Article Influence Score: eigenfactor.md
+    - Github Forks & Collaborators: github.md
+    - H-Index: hindex.md
     - Journal Acceptance Rate: journalacceptance.md
+    - Monograph Holdings: monographholdings.md
+    - Monograph Sales & Rankings: monographsales.md
+    - Policy Citations: policycitations.md
+    - Relative Citation Ratio (RCR): relativecitationratio.md
     - Wikipedia Citations: wikipedia.md
   - Metrics by Output Type:
     - Articles: lesson2.md
