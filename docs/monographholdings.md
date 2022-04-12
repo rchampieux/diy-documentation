@@ -21,8 +21,8 @@ OCLC [WorldCat](https://www.worldcat.org/)
 
 
 ## Related metrics
-[Monographic Sales & Ranking]()
-[Book Ratings & Reviews]()
-[Goodreads: Ratings & Reviews]()
+[Monographic Sales & Ranking]() <br>
+[Book Ratings & Reviews]() <br>
+[Goodreads: Ratings & Reviews]() <br>
 
 Last updated April 2022
