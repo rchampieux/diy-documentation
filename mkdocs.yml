@@ -7,6 +7,9 @@ nav:
   - Home: index.md
   - Browse Metrics:
     - H-Index: hindex.md
+    - Eigenfactor Score & Article Influence Score: eigenfactor.md
+    - Journal Acceptance Rate: journalacceptance.md
+    - Wikipedia Citations: wikipedia.md
   - Metrics by Output Type:
     - Articles: lesson2.md
     - Data: lesson2.md
