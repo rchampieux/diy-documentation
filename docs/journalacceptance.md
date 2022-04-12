@@ -18,9 +18,9 @@ This metric may not be publicly available for all journals. You may have to requ
 
 
 ## Related metrics
- - Journal Impact Factor
- - Citations, articles
- - Downloads, articles
+[Journal Impact Factor]() <br>
+[Citations, articles]() <br>
+[Downloads, articles]() <br>
 
 
 ## Learn more
