@@ -13,17 +13,12 @@ Depending on the context of the citation, Wikipedia references can be interprete
 
 
 ## What to keep in mind
- - As an online collaborative encyclopedia, Wikipedia’s unprotected pages may be edited by anyone, including unregistered users. While Wikipedia has guidelines for using and referencing sources, the anonymous nature of its editorial process has inspired numerous researchers to question the [motivations](https://www.sciencedirect.com/science/article/pii/S0747563210000877) and biases of content contributors. 
-
- - The content of Wikipedia knowledge bases differs for each language. For example, the content of the Spanish language Wikipedia knowledge base is different from the Korean language knowledge base.
-
- - Wikipedia mentions may not indicate a positive review/appraisal of the scholarly output. Counts do not reflect whether the mention was positive, negative, or neutral. 
-
- - Raw Wikipedia citation counts should not be interpreted as a direct measure of quality or impact. Rather, citation counts should always be considered in light of their individual contexts, which may or may not be positive or appropriate. 
-
- - The tracking method is specific to the metric source provider. Altmetric tracks and calculates Wikipedia citations via identifiers and titles that appear in valid citations across the English, Finnish, and Swedish-language Wikipedias, whereas PlumX mines the full text entry of all Wikipedia pages for DOIs, PMIDs, and URLs.
-
- - Wikipedia citations and other altmetrics have been shown to diverge from expert reviewers’ evaluation scores in the REF 2014. Additionally, [research suggests that Wikipedia’s coverage of the published literature is relatively narrow](https://arxiv.org/abs/1203.4745). [One study showed that only 5% of biomedical articles have been cited on Wikipedia](https://doi.org/10.1002/asi.23694).
+ - As an online collaborative encyclopedia, Wikipedia’s unprotected pages may be edited by anyone, including unregistered users. While Wikipedia has guidelines for using and referencing sources, the anonymous nature of its editorial process has inspired numerous researchers to question the [motivations](https://www.sciencedirect.com/science/article/pii/S0747563210000877) and biases of content contributors.  <br>
+ - The content of Wikipedia knowledge bases differs for each language. For example, the content of the Spanish language Wikipedia knowledge base is different from the Korean language knowledge base.  <br>
+ - Wikipedia mentions may not indicate a positive review/appraisal of the scholarly output. Counts do not reflect whether the mention was positive, negative, or neutral.  <br>
+ - Raw Wikipedia citation counts should not be interpreted as a direct measure of quality or impact. Rather, citation counts should always be considered in light of their individual contexts, which may or may not be positive or appropriate.  <br>
+ - The tracking method is specific to the metric source provider. Altmetric tracks and calculates Wikipedia citations via identifiers and titles that appear in valid citations across the English, Finnish, and Swedish-language Wikipedias, whereas PlumX mines the full text entry of all Wikipedia pages for DOIs, PMIDs, and URLs. <br>
+ - Wikipedia citations and other altmetrics have been shown to diverge from expert reviewers’ evaluation scores in the REF 2014. Additionally, [research suggests that Wikipedia’s coverage of the published literature is relatively narrow](https://arxiv.org/abs/1203.4745). [One study showed that only 5% of biomedical articles have been cited on Wikipedia](https://doi.org/10.1002/asi.23694). <br>
 
 
 ## Learn more
@@ -31,5 +26,5 @@ Kousha, Keyvan; Thelwall, Mike (2017). “Are Wikipedia citations important evid
 
 ## Related metrics
 
-Blog mentions
-Policy citations
+[Blog mentions]()  <br>
+[Policy citations]() <br>
