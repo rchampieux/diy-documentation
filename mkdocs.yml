@@ -1,5 +1,7 @@
 site_name: Metrics Toolkit
 theme: material
+features:
+    - navigation.tabs
 language: en
 font:
   text: Roboto
