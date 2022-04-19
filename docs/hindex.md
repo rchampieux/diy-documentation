@@ -1,4 +1,3 @@
-![h-index icon](images/h-index-small.png)
 # H-Index!
 
 ## What it is
