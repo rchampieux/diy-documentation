@@ -1,19 +1,20 @@
 # Metrics Toolkit Descriptive Schema V2.0
 ## Overview
 
-Version 2.0 of the Metrics Toolkit Descriptive Schema was implemented in 2022. The new schema is intended to provide a clear overview of each metric, which prioritizes essential information for understand and usage.
+Version 2.0 of the Metrics Toolkit Descriptive Schema was implemented in 2022. The new schema is intended to provide a clear overview of each metric in a manner that prioritizes essential information for understand and usage.
 ## Fields
 
-All metric descriptions contain the following fields:
+All metric descriptions contain the following fields.
 
-**What it is** Briefly and simply describes the metric
+**What it is**: Briefly and simply describes the metric
 
-**How it works** Describes the metric’s properties and application(s)
+**How it works**: Describes the metric’s properties and application(s)
 
-**What to keep in mind** Highlights relevant issues, limits, nuances, points of transparency, etc
+**What to keep in mind**: Highlights relevant issues, limits, nuances, points of transparency, etc
 
-**Learn more** Points to further readings, links, and resources
+**Learn more**: Points to further readings, links, and resources
 
-**Related metrics** Links internally to other metrics posts, based on the ontology
+**Related metrics**: Links internally to other metrics posts, based on the ontology
+## Additional Information
 
-All metrics posts also include information about when the content was last reviewed or updated. Look for **Last updated Month YYYY**.
+All metrics descriptions include information about when the content was last reviewed or updated. Look for **Last updated YYYY-MM-DD**.

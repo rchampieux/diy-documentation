@@ -1,4 +1,7 @@
-## Schema v. 1.0 (used 2018-2021)
+# Metrics Toolkit Descriptive Schema V1.0
+## Overview
+The first version of the Metrics Toolkit was in use between 2018 and 2022.  It was reviewed and significantly revised in 2021.
+## Fields
 | Field |	Field Description |
 | ------- | --------------- |
 | Name	| The name of the metric (e.g., h-index)|
