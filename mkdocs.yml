@@ -6,7 +6,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
   palette:
-    primary: grey
+    primary: blue grey
     accent: blue
 language: en
 font:
