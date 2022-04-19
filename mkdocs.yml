@@ -3,6 +3,11 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+  palette:
+    primary: grey
+    accent: blue
 language: en
 font:
   text: Roboto
