@@ -1,11 +1,9 @@
 site_name: Metrics Toolkit
 theme: material
-  language: en
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
+language: en
+font:
+  text: Roboto
+  code: Roboto Mono
 plugins:
   - search
 docs_dir: docs
