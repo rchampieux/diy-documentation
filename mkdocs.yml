@@ -39,6 +39,7 @@ nav:
     - Relative Citation Ratio (RCR): relativecitationratio.md
     - Twitter mentions: twittermentions.md
     - Wikipedia Citations: wikipedia.md
-  - Schema:
-    - Metrics Toolkit Schema V2: mt_schema_v2.md
-    - Metrics Toolkit Schema V1: mt_schema_v1.md
+  - About:
+    - Schema:
+      - Metrics Toolkit Schema V2: mt_schema_v2.md
+      - Metrics Toolkit Schema V1: mt_schema_v1.md
