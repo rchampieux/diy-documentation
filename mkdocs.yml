@@ -26,6 +26,7 @@ docs_dir: docs
 nav:
   - Home: index.md
   - Browse Metrics:
+    - browsing_options.md
     - Altmetric Attention Score: altmetricattention.md
     - Eigenfactor Score & Article Influence Score: eigenfactor.md
     - Facebook Posts, Comments, Likes, & Shares: facebook.md
@@ -40,7 +41,9 @@ nav:
     - Twitter mentions: twittermentions.md
     - Wikipedia Citations: wikipedia.md
   - About:
+    - mt_mission.md
     - Schema:
       - Metrics Toolkit Schema V2: mt_schema_v2.md
       - Metrics Toolkit Schema V1: mt_schema_v1.md
-    - Editorial Boad:  editorial_board.md
+    - Editorial Boad:
+      - editorial_board.md
