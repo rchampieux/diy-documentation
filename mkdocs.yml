@@ -28,18 +28,18 @@ nav:
   - Home: index.md
   - Browse Metrics:
     - Altmetric Attention Score: /metrics/altmetricattention.md
-    - Eigenfactor Score & Article Influence Score: eigenfactor.md
-    - Facebook Posts, Comments, Likes, & Shares: facebook.md
-    - Github Forks, Collaborators, & Watchers: github.md
-    - H-Index: hindex.md
-    - Journal Acceptance Rate: journalacceptance.md
-    - Journal Impact Factor: journalimpactfactor.md
-    - Monograph Holdings: monographholdings.md
-    - Monograph Sales & Rankings: monographsales.md
-    - Policy Citations: policycitations.md
-    - Relative Citation Ratio (RCR): relativecitationratio.md
-    - Twitter mentions: twittermentions.md
-    - Wikipedia Citations: wikipedia.md
+    - Eigenfactor Score & Article Influence Score: /metrics/eigenfactor.md
+    - Facebook Posts, Comments, Likes, & Shares: /metrics/facebook.md
+    - Github Forks, Collaborators, & Watchers: /metrics/github.md
+    - H-Index: /metrics/hindex.md
+    - Journal Acceptance Rate: /metrics/journalacceptance.md
+    - Journal Impact Factor: /metrics/journalimpactfactor.md
+    - Monograph Holdings: /metrics/monographholdings.md
+    - Monograph Sales & Rankings: /metrics/monographsales.md
+    - Policy Citations: /metrics/policycitations.md
+    - Relative Citation Ratio (RCR): /metrics/relativecitationratio.md
+    - Twitter mentions: /metrics/twittermentions.md
+    - Wikipedia Citations: /metrics/wikipedia.md
   - About:
     - mt_mission.md
     - Schema:
