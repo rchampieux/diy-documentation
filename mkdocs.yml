@@ -25,8 +25,7 @@ markdown_extensions:
 docs_dir: docs
 nav:
   - Home: index.md
-  - Browse Metrics:
-    - browsing_options.md
+  - Browse Metrics: browsing_options.md
     - Altmetric Attention Score: altmetricattention.md
     - Eigenfactor Score & Article Influence Score: eigenfactor.md
     - Facebook Posts, Comments, Likes, & Shares: facebook.md
