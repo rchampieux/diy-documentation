@@ -40,7 +40,6 @@ nav:
     - Twitter mentions: twittermentions.md
     - Wikipedia Citations: wikipedia.md
   - About:
-    - mt_mission.md
     - Schema:
       - Metrics Toolkit Schema V2: mt_schema_v2.md
       - Metrics Toolkit Schema V1: mt_schema_v1.md
