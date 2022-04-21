@@ -9,6 +9,11 @@ theme:
   palette:
     primary: blue grey
     accent: blue
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/metrics_toolkit
+      name: Metrics Toolkit on Twitter
 language: en
 font:
   text: Roboto
