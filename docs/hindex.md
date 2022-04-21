@@ -2,7 +2,7 @@
 ## What it is
 The h-index is an author-level metric that combines information from the author’s publications and citations. The h-index is the maximum number of an author’s publications that are each cited at least h times. It was proposed in 2005 by Jorge Hirsch(1).
 ## How it works
-<img width="100" height="100" src="images/h-index-graph-wikipedia.png" alt="hindex figure">
+<img width="300" height="300" src="images/h-index-graph-wikipedia.png" alt="h index graph">
 
 An author with an h-index of 5 has five publications that have been cited at least five times each (see figure). The formula for calculating the h-index is openly available. See https://en.wikipedia.org/wiki/H-index.
 
