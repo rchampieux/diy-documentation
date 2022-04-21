@@ -6,7 +6,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
-    - navigation.indexes
   palette:
     primary: blue grey
     accent: blue
