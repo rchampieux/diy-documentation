@@ -25,6 +25,7 @@ markdown_extensions:
 docs_dir: docs
 nav:
   - Home: index.md
+  - How to: how_to.md
   - Browse Metrics:
     - Altmetric Attention Score: altmetricattention.md
     - Eigenfactor Score & Article Influence Score: eigenfactor.md
@@ -43,6 +44,5 @@ nav:
     - Schema:
       - Metrics Toolkit Schema V2: mt_schema_v2.md
       - Metrics Toolkit Schema V1: mt_schema_v1.md
-    - Editorial Boad:
+    - Editorial Board:
       - editorial_board.md
-   - How To: how_to.md
