@@ -29,9 +29,12 @@ All metric descriptions contain the following fields.
 ## Keep in mind
 The information provided here is limited to the evidence available in the scholarly literature. If there is little to no evidence available to address a topic or question, we are unable to synthesize it here.
 
+<br />
 
 ## Want to read the literature cited?
 
 While copyright laws prevent us from sharing full-text, we have done our best to link to Open Access copies where possible. In case we don't link to an open copy, check to see if one is available via the [Open Access button](https://openaccessbutton.org/).
 
 For help getting access to a subscription-only item, contact your local librarian or submit an Interlibrary Loan (ILL) request at your institution or local library. 
+
+<br />
