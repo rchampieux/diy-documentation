@@ -14,15 +14,15 @@ The Metrics Toolkit provides straightforward and evidence-based information abou
 
 All metric descriptions contain the following fields.
 
-What it is: Briefly and simply describes the metric
+**What it is:** Briefly and simply describes the metric
 
-How it works: Describes the metric’s properties and application(s)
+**How it works:** Describes the metric’s properties and application(s)
 
-What to keep in mind: Highlights relevant issues, limits, nuances, points of transparency, etc
+**What to keep in mind:** Highlights relevant issues, limits, nuances, points of transparency, etc
 
-Learn more: Points to further readings, links, and resources
+**Learn more:** Points to further readings, links, and resources
 
-Related metrics: Links internally to other metrics posts, based on the ontology
+**Related metrics:** Links internally to other metrics posts, based on the ontology
 
 <br />
 
