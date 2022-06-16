@@ -23,8 +23,8 @@ The idea of alternative level metrics (alt-metrics) was first introduced by [Jas
 - Legitimate self-promotion by authors may artificially increase the AAS (3).
 - The AAS should not be used as a direct measure of research impact or quality of any kind.
 - The AAS lacks transparency. It is not possible to fully audit the AAS, as the weighting of the score depends upon non-public, company-assigned “tiers” for news sources, Twitter users, and some other sources that mention a research output.
-- In general, heterogeneity, dependency, lack of common definition, and data quality are main challenges of altmetric data and indicators (2, 4).
-- Differences in coverage and frequency of updates of altmetric aggregators influence the counts of altmetric indicators 5, 6).
+- In general, heterogeneity, dependency, lack of common definition, and data quality are main challenges of altmetric data and indicators (2, 4, 5).
+- Differences in coverage and frequency of updates of altmetric aggregators influence the counts of altmetric indicators 6, 7).
 
 
 ## Learn more
@@ -44,11 +44,13 @@ none <br>
 
 ## References
 1. Priem, J., Piwowar, H. A., & Hemminger, B. M. (2012). Altmetrics in the wild: Using social media to explore scholarly impact. [https://arxiv.org/abs/1203.4745v1](https://arxiv.org/abs/1203.4745v1)
-2. Wouters, Zahedi, & Costas, 2019
-3. Adie, 2013
-4. Haustein, 2016; Zahedi, 2018
-5. Bar-Ilan & Halevi, 2017
-6. Zahedi & Costas, 2018
+2. Wouters, P., Zahedi, Z., & Costas, R. (2019). Social Media Metrics for New Research Evaluation. In W. Glänzel, H. F. Moed, U. Schmoch, & M. Thelwall (Eds.), *Springer Handbook of Science and Technology Indicators* (pp. 687–713). Springer International Publishing. https://doi.org/10.1007/978-3-030-02511-3_26
+Open Access: https://arxiv.org/ftp/arxiv/papers/1806/1806.10541.pdf
+4. Adie, 2013
+5. Haustein, 2016; 
+6. Zahedi, 2018
+7. Bar-Ilan & Halevi, 2017
+8. Zahedi & Costas, 2018
 
 
 Last updated June 2022
