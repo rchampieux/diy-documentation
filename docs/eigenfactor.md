@@ -36,3 +36,4 @@ Sugimoto, C. R. & Lariviere, V. (2020). *Measuring Research: What Everyone Needs
 [Relative Citation Ratio]() <br> 
 
 <br> 
+Last updated June 2022 <br>
