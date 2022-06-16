@@ -31,3 +31,6 @@ Sugimoto, C. R. & Lariviere, V. (2020). *Measuring Research: What Everyone Needs
 
 
 ## Related Metrics
+[Journal Impact Factor]()
+[Field Normalized Citation Indicators]()
+[Relative Citation Ratio]()
