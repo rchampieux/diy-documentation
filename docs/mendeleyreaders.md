@@ -38,4 +38,4 @@ Zahedi, Z. and Costas, R., 2020. Do Online Readerships Offer Useful Assessment T
 3. Thelwall, M. (2018). Early Mendeley readers correlate with later citation counts. Scientometrics, 115(3), 1231–1240. https://doi.org/10.1007/s11192-018-2715-9 
 
 
-Last updated 2022-06
+Last updated June 2022
