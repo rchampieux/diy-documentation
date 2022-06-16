@@ -14,29 +14,29 @@ AAS is an aggregated weighted article level indicator that can be used to:
 
 ## What to keep in mind
 
-The idea of alternative level metrics (alt-metrics) was first introduced by [Jason Priem in 2010] (1). Some of the documented limitations are related to individual altmetric scores or the aggregated AAS, while some are related to the underlying data used to calculate the metric. Some commonly noted limitations of the AAS (and altmetrics data in general) are as follows:
-- AAS is considered as a composite indicator which lumps together fundamentally different metrics (e.g. Twitter, blogs, views, etc.) with different nature.
-- AAS is an aggregated score and thus should not be used in the aggregate form for comparison with non aggregated metrics (citations). Keeping the different altmetric scores as separate entities suggested to be the best choice for transparent approaches in assessments (2).
-- AAS does not take into account the sentiments of mentions made about research objects, and thus does not help one understand the positive nor negative attention that a piece of research has received.
-- AAS doesn’t reflect publications without unique identifiers (e.g. DOI, PMID, etc.) since these publications are not tracked by Altmetric.com.
-- Mentions of scientific publications on social media platforms (such as Twitter) need to include a direct link to the scientific publication to be tracked by Altmetric.com.
-- Legitimate self-promotion by authors may artificially increase the AAS (3).
-- The AAS should not be used as a direct measure of research impact or quality of any kind.
-- The AAS lacks transparency. It is not possible to fully audit the AAS, as the weighting of the score depends upon non-public, company-assigned “tiers” for news sources, Twitter users, and some other sources that mention a research output.
-- In general, heterogeneity, dependency, lack of common definition, and data quality are main challenges of altmetric data and indicators (2, 4, 5).
-- Differences in coverage and frequency of updates of altmetric aggregators influence the counts of altmetric indicators 6, 7).
-
+The idea of alternative level metrics (alt-metrics) was first introduced by [Jason Priem in 2010] (1). Some of the documented limitations are related to individual altmetric scores or the aggregated AAS, while some are related to the underlying data used to calculate the metric. Some commonly noted limitations of the AAS (and altmetrics data in general) are as follows: <br>
+- AAS is considered as a composite indicator which lumps together fundamentally different metrics (e.g. Twitter, blogs, views, etc.) with different nature. <br>
+- AAS is an aggregated score and thus should not be used in the aggregate form for comparison with non aggregated metrics (citations). Keeping the different altmetric scores as separate entities suggested to be the best choice for transparent approaches in assessments (2). <br>
+- AAS does not take into account the sentiments of mentions made about research objects, and thus does not help one understand the positive nor negative attention that a piece of research has received. <br>
+- AAS doesn’t reflect publications without unique identifiers (e.g. DOI, PMID, etc.) since these publications are not tracked by Altmetric.com. <br>
+- Mentions of scientific publications on social media platforms (such as Twitter) need to include a direct link to the scientific publication to be tracked by Altmetric.com. <br>
+- Legitimate self-promotion by authors may artificially increase the AAS (3). <br>
+- The AAS should not be used as a direct measure of research impact or quality of any kind. <br>
+- The AAS lacks transparency. It is not possible to fully audit the AAS, as the weighting of the score depends upon non-public, company-assigned “tiers” for news sources, Twitter users, and some other sources that mention a research output. <br>
+- In general, heterogeneity, dependency, lack of common definition, and data quality are main challenges of altmetric data and indicators (2, 4, 5). <br>
+- Differences in coverage and frequency of updates of altmetric aggregators influence the counts of altmetric indicators 6, 7). <br>
+<br>
 
 ## Learn more
 
-- Banshal S.K., Basu A., Singh V.K., Muhuri P.K. (2018) Scientific vs. Public Attention: A Comparison of Top Cited Papers in WoS and Top Papers by Altmetric Score. In: Erdt M., Sesagiri Raamkumar A., Rasmussen E., Theng YL. (eds) Altmetrics for Research Outputs Measurement and Scholarly Information Management. AROSIM 2018. Communications in Computer and Information Science, vol 856. Springer, Singapore. [https://doi.org/10.1007/978-981-13-1053-9_7](https://doi.org/10.1007/978-981-13-1053-9_7)
-- Bar-Ilan, J. & Halevi, G. (2017). Altmetric Counts from Different Sources: A Case Study of Journal of the Association for Information Science and Technology (JASIST) Articles Published Between 2001 and Mid 2017. The 2017 Altmetrics Workshop: The Dependencies of Altmetrics, 26 September 2017, Toronto, Canada. Retrieved from: http://altmetrics.org/altmetrics17/
-- Haustein, S. Grand challenges in altmetrics: heterogeneity, data quality and dependencies. Scientometrics 108, 413–423 (2016). https://doi.org/10.1007/s11192-016-1910-9
-- Poplašen, L. M., & Grgić, I. H. (2017). Altmetric and bibliometric scores: does Open Access matter?. Qualitative and Quantitative Methods in Libraries, 5(2), 451-460.
-- Priem, J., Piwowar, H. A., & Hemminger, B. M. (2012). Altmetrics in the wild: Using social media to explore scholarly impact. arXiv preprint arXiv:1203.4745.
-- Wouters, P., Zahedi, Z., & Costas, R. (2019). Social media metrics for new research evaluation. In Springer handbook of science and technology indicators (pp. 687-713). Springer, Cham.
-- Zahedi Z, Costas R (2018) General discussion of data quality challenges in social media metrics: Extensive comparison of four major altmetric data aggregators. PLoS ONE 13(5): e0197326. https://doi.org/10.1371/journal.pone.0197326
-- Zahedi, Z. (2018). Understanding the value of social media metrics for research evaluation. Doctoral dissertation, Leiden University.
+- Banshal S.K., Basu A., Singh V.K., Muhuri P.K. (2018) Scientific vs. Public Attention: A Comparison of Top Cited Papers in WoS and Top Papers by Altmetric Score. In: Erdt M., Sesagiri Raamkumar A., Rasmussen E., Theng YL. (eds) Altmetrics for Research Outputs Measurement and Scholarly Information Management. AROSIM 2018. Communications in Computer and Information Science, vol 856. Springer, Singapore. [https://doi.org/10.1007/978-981-13-1053-9_7](https://doi.org/10.1007/978-981-13-1053-9_7) <br>
+- Bar-Ilan, J. & Halevi, G. (2017). Altmetric Counts from Different Sources: A Case Study of Journal of the Association for Information Science and Technology (JASIST) Articles Published Between 2001 and Mid 2017. The 2017 Altmetrics Workshop: The Dependencies of Altmetrics, 26 September 2017, Toronto, Canada. Retrieved from: http://altmetrics.org/altmetrics17/ <br>
+- Haustein, S. Grand challenges in altmetrics: heterogeneity, data quality and dependencies. Scientometrics 108, 413–423 (2016). https://doi.org/10.1007/s11192-016-1910-9 <br>
+- Poplašen, L. M., & Grgić, I. H. (2017). Altmetric and bibliometric scores: does Open Access matter?. Qualitative and Quantitative Methods in Libraries, 5(2), 451-460. <br>
+- Priem, J., Piwowar, H. A., & Hemminger, B. M. (2012). Altmetrics in the wild: Using social media to explore scholarly impact. arXiv preprint arXiv:1203.4745. <br>
+- Wouters, P., Zahedi, Z., & Costas, R. (2019). Social media metrics for new research evaluation. In Springer handbook of science and technology indicators (pp. 687-713). Springer, Cham. <br>
+- Zahedi Z, Costas R (2018) General discussion of data quality challenges in social media metrics: Extensive comparison of four major altmetric data aggregators. PLoS ONE 13(5): e0197326. https://doi.org/10.1371/journal.pone.0197326 <br>
+- Zahedi, Z. (2018). Understanding the value of social media metrics for research evaluation. Doctoral dissertation, Leiden University. <br>
 
 
 ## Related metrics
