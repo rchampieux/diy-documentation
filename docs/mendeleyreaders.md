@@ -33,9 +33,9 @@ Zahedi, Z. and Costas, R., 2020. Do Online Readerships Offer Useful Assessment T
 
 ## References
 
-1. Zahedi, Z. and Costas, R., 2020. Do Online Readerships Offer Useful Assessment Tools? Discussion Around the Practical Applications of Mendeley Readership for Scholarly Assessment. Scholarly Assessment Reports, 2(1), p.14. http://doi.org/10.29024/sar.20 
-2. Van Noorden, R. (2014). Scientists and the social networks. Nature, 512(7513), 126-130.
-3. Thelwall, M. (2018). Early Mendeley readers correlate with later citation counts. Scientometrics, 115(3), 1231–1240. https://doi.org/10.1007/s11192-018-2715-9 
+1. Zahedi, Z. and Costas, R., 2020. Do Online Readerships Offer Useful Assessment Tools? Discussion Around the Practical Applications of Mendeley Readership for Scholarly Assessment. Scholarly Assessment Reports, 2(1), p.14. [http://doi.org/10.29024/sar.20](http://doi.org/10.29024/sar.20)
+2. Van Noorden, R. (2014). Online collaboration: Scientists and the social network. *Nature News*, 512(7513), 126. [https://doi.org/10.1038/512126a](https://doi.org/10.1038/512126a)
+3. Thelwall, M. (2018). Early Mendeley readers correlate with later citation counts. Scientometrics, 115(3), 1231–1240. [https://doi.org/10.1007/s11192-018-2715-9](https://doi.org/10.1007/s11192-018-2715-9)
 
 
 Last updated June 2022
