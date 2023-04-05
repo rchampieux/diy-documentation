@@ -31,7 +31,9 @@ Díaz-Faes, A. A., Bowman, T. D., & Costas, R. (2019). Towards a second generati
 
 ## Related metrics 
 [Blog mentions]()
+
 [Wikipedia citations]()
+
 
 ## References
 Priem, J., & Costello, K. L. (2010). How and why scholars cite on Twitter. Proceedings of the American Society for Information Science and Technology, 47(1), 1-4. [http://dx.doi.org/10.1002/meet.14504701201](http://dx.doi.org/10.1002/meet.14504701201) 
