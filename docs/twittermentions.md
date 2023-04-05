@@ -36,8 +36,9 @@ Díaz-Faes, A. A., Bowman, T. D., & Costas, R. (2019). Towards a second generati
 
 
 ## References
-Priem, J., & Costello, K. L. (2010). How and why scholars cite on Twitter. Proceedings of the American Society for Information Science and Technology, 47(1), 1-4. [http://dx.doi.org/10.1002/meet.14504701201](http://dx.doi.org/10.1002/meet.14504701201) 
-Thelwall, M., Tsou, A., Weingart, S., Holmberg, K., & Haustein, S. (2013). Tweeting links to academic articles. Cybermetrics: International Journal of Scientometrics, Informetrics and Bibliometrics, (17), 1-8. Available at [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6234](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6234) 
-Thelwall, M., & Kousha, K. (2015). Web indicators for research evaluation. Part 2: Social media metrics. Profesional de la Información, 24(5), 607-620. Available at [http://profesionaldelainformacion.com/contenidos/2015/sep/09.html](http://profesionaldelainformacion.com/contenidos/2015/sep/09.html) 
+1. Priem, J., & Costello, K. L. (2010). How and why scholars cite on Twitter. Proceedings of the American Society for Information Science and Technology, 47(1), 1-4. [http://dx.doi.org/10.1002/meet.14504701201](http://dx.doi.org/10.1002/meet.14504701201) 
+2. Thelwall, M., Tsou, A., Weingart, S., Holmberg, K., & Haustein, S. (2013). Tweeting links to academic articles. Cybermetrics: International Journal of Scientometrics, Informetrics and Bibliometrics, (17), 1-8. Available at [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6234](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.385.6234) 
+3. Thelwall, M., & Kousha, K. (2015). Web indicators for research evaluation. Part 2: Social media metrics. Profesional de la Información, 24(5), 607-620. Available at [http://profesionaldelainformacion.com/contenidos/2015/sep/09.html](http://profesionaldelainformacion.com/contenidos/2015/sep/09.html) 
+
 
 Last updated April 2022
