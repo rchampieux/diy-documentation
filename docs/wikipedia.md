@@ -16,7 +16,7 @@ Depending on the context of the citation, Wikipedia references can be interprete
 
 ## What to keep in mind
 
-As an online collaborative encyclopedia, Wikipedia’s unprotected pages may be edited by anyone, including unregistered users. While Wikipedia has guidelines for using and referencing sources, the anonymous nature of its editorial process has inspired numerous researchers to question the motivations(2) and biases of content contributors. 
+As an online collaborative encyclopedia, Wikipedia’s unprotected pages may be edited by anyone, including unregistered users. While Wikipedia has guidelines for using and referencing sources, the anonymous nature of its editorial process has inspired numerous researchers to question the motivations (2) and biases of content contributors. 
 
 The content of Wikipedia knowledge bases differs for each language. For example, the content of the Spanish language Wikipedia knowledge base is different from the Korean language knowledge base.
 
@@ -42,7 +42,7 @@ Kousha, Keyvan; Thelwall, Mike (2017). “Are Wikipedia citations important evid
 
 ## References
 
-Kousha, Keyvan; Thelwall, Mike (2017). “Are Wikipedia citations important evidence of the impact of scholarly articles and books?”. *Journal of the Association for Information Science and Technology*, v. 68, n. 3, pp. 762-779. [https://doi.org/10.1002/asi.23694](https://doi.org/10.1002/asi.23694)
-Yang, H. L., & Lai, C. Y. (2010). Motivations of Wikipedia content contributors. *Computers in Human Behavior*, 26(6), 1377-1383. [https://doi.org/10.1016/j.chb.2010.04.011](https://doi.org/10.1016/j.chb.2010.04.011) 
-Priem, J., Piwowar, H. A., & Hemminger, B. M. (2012). Altmetrics in the wild: Using social media to explore scholarly impact. [https://arxiv.org/abs/1203.4745](https://arxiv.org/abs/1203.4745)
+1. Kousha, Keyvan; Thelwall, Mike (2017). “Are Wikipedia citations important evidence of the impact of scholarly articles and books?”. *Journal of the Association for Information Science and Technology*, v. 68, n. 3, pp. 762-779. [https://doi.org/10.1002/asi.23694](https://doi.org/10.1002/asi.23694)
+2. Yang, H. L., & Lai, C. Y. (2010). Motivations of Wikipedia content contributors. *Computers in Human Behavior*, 26(6), 1377-1383. [https://doi.org/10.1016/j.chb.2010.04.011](https://doi.org/10.1016/j.chb.2010.04.011) 
+3. Priem, J., Piwowar, H. A., & Hemminger, B. M. (2012). Altmetrics in the wild: Using social media to explore scholarly impact. [https://arxiv.org/abs/1203.4745](https://arxiv.org/abs/1203.4745)
 
