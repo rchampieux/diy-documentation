@@ -41,4 +41,5 @@ Díaz-Faes, A. A., Bowman, T. D., & Costas, R. (2019). Towards a second generati
 3. Thelwall, M., & Kousha, K. (2015). Web indicators for research evaluation. Part 2: Social media metrics. Profesional de la Información, 24(5), 607-620. Available at [http://profesionaldelainformacion.com/contenidos/2015/sep/09.html](http://profesionaldelainformacion.com/contenidos/2015/sep/09.html) 
 
 
+
 Last updated April 2022
