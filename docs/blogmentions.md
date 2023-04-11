@@ -16,7 +16,7 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 
 *The count of blog mentions captured by any one source is incomplete.* Multiple sources are necessary to get a relatively complete picture of what blogs are discussing any particular publication.
 
-*The coverage of blog mentions by altmetric aggregators differs significantly.” While there is some (28.8%) overlap between Altmetric and PlumX in the publications covered, there is far less overlap in coverage when counting individual mentions or events [4]. While PlumX may have greater coverage of publications, Altmetric covers nearly double the number of blog sources and generally includes more mentions [3]. Finally, PlumX miscounts many bibliographic citations from publishers such as Hindawi and the OMICS Publishing Group as blog mentions [4].
+*The coverage of blog mentions by altmetric aggregators differs significantly.* While there is some (28.8%) overlap between Altmetric and PlumX in the publications covered, there is far less overlap in coverage when counting individual mentions or events [4]. While PlumX may have greater coverage of publications, Altmetric covers nearly double the number of blog sources and generally includes more mentions [3]. Finally, PlumX miscounts many bibliographic citations from publishers such as Hindawi and the OMICS Publishing Group as blog mentions [4].
 
 *The overall number of publications mentioned in blogs is low.* Several studies have confirmed that most publications are not mentioned in blogs [4, 5].
 
