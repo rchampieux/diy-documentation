@@ -11,10 +11,10 @@ This metric may not be publicly available for all journals. You may have to requ
 ## What to keep in mind
 
   - *The acceptance rate should not be used as a measure of the quality of a particular manuscript.* Manuscripts may be rejected because there was a mismatch between the journal’s focus, audience, or format and that of the manuscript.
- - *Acceptance rates should not be compared across discipline and country.* They vary widely by discipline, country affiliation of the editor, and number of reviewers per article [1, 2].
- - *Younger journals tend to have higher acceptance rates.* Sugimoto et al. [2] found a positive relationship between journal age and acceptance rate.
- - *The acceptance rate may be a proxy for perceived prestige and demand as compared to availability.* The evidence for correlation between acceptance/rejection rates and citations and the Journal Impact Factor is mixed and heavily based on small studies, many of which are out of date [2].
- - *Acceptance rates tend to be lower when journal age is higher.* Acceptance rates were negatively correlated with citation-based indicators and positively correlated with journal age [2].
+ - *Acceptance rates should not be compared across discipline and country.* They vary widely by discipline, country affiliation of the editor, and number of reviewers per article (1, 2).
+ - *Younger journals tend to have higher acceptance rates.* Sugimoto et al. (2) found a positive relationship between journal age and acceptance rate.
+ - *The acceptance rate may be a proxy for perceived prestige and demand as compared to availability.* The evidence for correlation between acceptance/rejection rates and citations and the Journal Impact Factor is mixed and heavily based on small studies, many of which are out of date (2).
+ - *Acceptance rates tend to be lower when journal age is higher.* Acceptance rates were negatively correlated with citation-based indicators and positively correlated with journal age (2).
  - *There is no standard or comprehensive source for this data.* Many studies have relied on one-off surveys of editors and publishers, rather than using a standard source. Even sources containing this data, such as Cabell’s Directories of Publishing Opportunities, have significant gaps in coverage.
 
 
