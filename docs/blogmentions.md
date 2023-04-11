@@ -23,16 +23,16 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 ## Learn more
 [Attention sources tracked by Altmetric](https://help.altmetric.com/support/solutions/articles/6000235927-blogs)
 
-[Altmetric Blog post “Altmetric ‘mentions’ and the identification of research impact’](https://www.altmetric.com/blog/altmetric-mentions-and-the-identification-of-research-impact/)
+[Altmetric Blog post “Altmetric ‘mentions’ and the identification of research impact’](https://www.digital-science.com/blog/2015/02/digital-research-report-altmetric-mentions-and-the-identification-of-research-impact/) <br />
 
 
 ## Related metrics
 
-[Altmetric Attention Score]() 
+[Altmetric Attention Score]()  <br />
 
-[Facebook]()
+[Facebook]() <br />
 
-[Twitter mentions]()
+[Twitter mentions]() <br />
 
 
 ## References
@@ -40,7 +40,7 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 2. Haustein, S., Bowman, T. D., & Costas, R. (2016). Interpreting “altmetrics”: Viewing acts on social media through the lens of citation and social theories. Theories of Informetrics and Scholarly Communication, 372–406. [https://library.oapen.org/handle/20.500.12657/46038](https://library.oapen.org/handle/20.500.12657/46038)
 3. Fang, Z., & Costas, R. (2020). Studying the accumulation velocity of altmetric data tracked by Altmetric.com. *Scientometrics*, 123(2), 1077–1101. [https://doi.org/10.1007/s11192-020-03405-9](https://doi.org/10.1007/s11192-020-03405-9) 
 4. Ortega, J. L. (2019). The coverage of blogs and news in the three major altmetric data providers. Paper presented at the 17th International Conference of the International Society for Scientometrics and Informetrics, Rome, Italy. Available at [https://osf.io/8xqjn](https://osf.io/8xqjn) 
-5. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007)
+5. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007) <br />
 
-<br />
+
 Last updated January 2023
