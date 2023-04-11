@@ -21,9 +21,8 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 *The overall number of publications mentioned in blogs is low.* Several studies have confirmed that most publications are not mentioned in blogs (4, 5).
 
 ## Learn more
-[Attention sources tracked by Altmetric](https://help.altmetric.com/support/solutions/articles/6000235927-blogs)
-
-[Altmetric Blog post “Altmetric ‘mentions’ and the identification of research impact’](https://www.digital-science.com/blog/2015/02/digital-research-report-altmetric-mentions-and-the-identification-of-research-impact/) <br />
+[Attention sources tracked by Altmetric](https://help.altmetric.com/support/solutions/articles/6000235927-blogs)  <br>
+[Altmetric Blog post “Altmetric ‘mentions’ and the identification of research impact’](https://www.digital-science.com/blog/2015/02/digital-research-report-altmetric-mentions-and-the-identification-of-research-impact/) <br>
 
 
 ## Related metrics
