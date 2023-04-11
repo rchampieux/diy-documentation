@@ -28,11 +28,9 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 
 ## Related metrics
 
-[Altmetric Attention Score]()  <br />
-
-[Facebook]() <br />
-
-[Twitter mentions]() <br />
+[Altmetric Attention Score]()  <br>
+[Facebook]() <br>
+[Twitter mentions]() <br>
 
 
 ## References
@@ -42,5 +40,5 @@ Some services (e.g., Altmetric, PlumX) track mentions only for scholarly works t
 4. Ortega, J. L. (2019). The coverage of blogs and news in the three major altmetric data providers. Paper presented at the 17th International Conference of the International Society for Scientometrics and Informetrics, Rome, Italy. Available at [https://osf.io/8xqjn](https://osf.io/8xqjn) 
 5. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007) <br />
 
-
+<br>
 Last updated January 2023
