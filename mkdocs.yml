@@ -28,6 +28,7 @@ nav:
   - How to: how_to.md
   - Browse Metrics:
     - Altmetric Attention Score: altmetricattention.md
+    - Blog Mentions: blogmentions.md
     - Eigenfactor Score & Article Influence Score: eigenfactor.md
     - Facebook Posts, Comments, Likes, & Shares: facebook.md
     - Github Forks, Collaborators, & Watchers: github.md
