@@ -23,9 +23,8 @@ Metric aggregators generally track mentions of scholarly works in scientific and
 
 ## Related metrics
 
-[Altmetric Attention Score]()  <br>
-[Facebook]() <br>
-[Twitter mentions]() <br>
+[Altmetric Attention Score]()  
+[News Mentions]() 
 
 
 ## References
