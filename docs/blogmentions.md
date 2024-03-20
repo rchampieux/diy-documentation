@@ -32,4 +32,4 @@ Metric aggregators generally track mentions of scholarly works in scientific and
 2. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007)  
 3. Ortega, José Luis. “How Do Media Mention Research Papers? Structural Analysis of Blogs and News Networks Using Citation Coupling.” Journal of Informetrics 15, no. 3 (August 1, 2021): 101175. [https://doi.org/10.1016/j.joi.2021.101175](https://doi.org/10.1016/j.joi.2021.101175).
    
-Last updated January 2023
+Last updated January 2024
