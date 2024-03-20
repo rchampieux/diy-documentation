@@ -16,8 +16,9 @@ Metric aggregators generally track mentions of scholarly works in scientific and
 - Blogs in the English language, primarily from English-speaking countries, along with specialized blogs, are tracked more frequently than general interest outlets (3).
 
 ## Learn more
-[Attention sources tracked by Altmetric](https://help.altmetric.com/support/solutions/articles/6000235927-blogs)  <br>
-[Altmetric Blog post “Altmetric ‘mentions’ and the identification of research impact’](https://www.digital-science.com/blog/2015/02/digital-research-report-altmetric-mentions-and-the-identification-of-research-impact/) <br>
+[How do Altmetric track attention to blogs?](https://help.altmetric.com/support/solutions/articles/6000235927-blogs)  
+[PlumX mentions metrics and sources](https://plumanalytics.com/learn/about-metrics/mention-metrics/)  
+[Crossref Event data overview and sources](https://www.crossref.org/services/event-data/)  
 
 
 ## Related metrics
