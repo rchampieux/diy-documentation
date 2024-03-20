@@ -28,11 +28,8 @@ Metric aggregators generally track mentions of scholarly works in scientific and
 
 
 ## References
-1. Thelwall, M., Haustein, S., Larivière, V., & Sugimoto, C. R. (2013). Do Altmetrics Work? Twitter and Ten Other Social Web Services. *PLOS ONE*, 8(5), e64841. [https://doi.org/10.1371/journal.pone.0064841](https://doi.org/10.1371/journal.pone.0064841)
-2. Haustein, S., Bowman, T. D., & Costas, R. (2016). Interpreting “altmetrics”: Viewing acts on social media through the lens of citation and social theories. Theories of Informetrics and Scholarly Communication, 372–406. [https://library.oapen.org/handle/20.500.12657/46038](https://library.oapen.org/handle/20.500.12657/46038)
-3. Fang, Z., & Costas, R. (2020). Studying the accumulation velocity of altmetric data tracked by Altmetric.com. *Scientometrics*, 123(2), 1077–1101. [https://doi.org/10.1007/s11192-020-03405-9](https://doi.org/10.1007/s11192-020-03405-9) 
-4. Ortega, J. L. (2019). The coverage of blogs and news in the three major altmetric data providers. Paper presented at the 17th International Conference of the International Society for Scientometrics and Informetrics, Rome, Italy. Available at [https://osf.io/8xqjn](https://osf.io/8xqjn) 
-5. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007) <br />
-
-<br>
+1. Ortega, J. L. (2019). The coverage of blogs and news in the three major altmetric data providers. Paper presented at the 17th International Conference of the International Society for Scientometrics and Informetrics, Rome, Italy. [https://osf.io/8xqjn](https://osf.io/8xqjn)  
+2. Bornmann, L. (2014). Validity of altmetrics data for measuring societal impact: A study using data from Altmetric and F1000Prime. Journal of Informetrics, 8(4), 935–950. [https://doi.org/10.1016/j.joi.2014.09.007](https://doi.org/10.1016/j.joi.2014.09.007)  
+3. Ortega, José Luis. “How Do Media Mention Research Papers? Structural Analysis of Blogs and News Networks Using Citation Coupling.” Journal of Informetrics 15, no. 3 (August 1, 2021): 101175. [https://doi.org/10.1016/j.joi.2021.101175](https://doi.org/10.1016/j.joi.2021.101175).
+   
 Last updated January 2023
