@@ -1,6 +1,6 @@
 site_name: Metrics Toolkit
 theme:
-  name: mkdocs
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.tabs.sticky
